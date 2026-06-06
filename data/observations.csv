@@ -1,0 +1,5 @@
+sample_id,condition,value,note
+S001,A,10.2,first observation
+S002,A,10.5,second observation
+S003,B,12.1,condition changed
+S004,B,11.8,repeat measurement
